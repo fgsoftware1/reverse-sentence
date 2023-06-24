@@ -1,7 +1,3 @@
-.. image:: https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffgsoftware1%2Freverse-sentence.svg?type=shield
-   :alt: FOSSA Status
-   :target: https://app.fossa.com/projects/git%2Bgithub.com%2Ffgsoftware1%2Freverse-sentence?ref=badge_shield
-
 reverse-sentence
 ===============
 
@@ -37,6 +33,7 @@ License
 
 ISC
 
+.. image:: https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffgsoftware1%2Freverse-sentence.svg?type=large
+   :alt: FOSSA Status
+   :target: https://app.fossa.com/projects/git%2Bgithub.com%2Ffgsoftware1%2Freverse-sentence?ref=badge_large
 
-## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffgsoftware1%2Freverse-sentence.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffgsoftware1%2Freverse-sentence?ref=badge_large)
