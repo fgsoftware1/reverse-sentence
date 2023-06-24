@@ -1,3 +1,3 @@
-module github.com/fgsoftware1/reverse-sentence
+module github.com/fgsoftware1/reverselib
 
 go 1.20
