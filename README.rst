@@ -1,24 +1,34 @@
-# reverse-sentence
+reverse-sentence
+===============
+
 Reverses the words of a sentence.
 
-## Install
-```sh
-npm install @rodrigofplourenco/reverse-sentence
-```
+Install
+-------
 
-## API
-```js
-require("reverse-sentence") => Function
-reverse(sentence) => String
-```
+.. code-block:: sh
 
-## Example
-```js
-const reverseSentence = require("reverse-sentence");
-const sentence = "Hello Rodrigo Lourenço!"; 
-const reversed = reverseSentence(sentence); 
-console.log(reversed) // Lourenço! Rodrigo Hello
-```
+   npm install @rodrigofplourenco/reverse-sentence
 
-## License
+API
+---
+
+.. code-block:: js
+
+   require("reverse-sentence") => Function
+   reverse(sentence) => String
+
+Example
+-------
+
+.. code-block:: js
+
+   const reverseSentence = require("reverse-sentence");
+   const sentence = "Hello Rodrigo Lourenço!";
+   const reversed = reverseSentence(sentence);
+   console.log(reversed)  # Lourenço! Rodrigo Hello
+
+License
+-------
+
 ISC
