@@ -8,25 +8,25 @@ Install
 
 .. code-block:: sh
 
-   npm install @rodrigofplourenco/reverse-sentence
-
-API
----
-
-.. code-block:: js
-
-   require("reverse-sentence") => Function
-   reverse(sentence) => String
+   go get github.com/fgsoftware1/reverse-sentence
 
 Example
 -------
 
-.. code-block:: js
+.. code-block:: go
 
-   const reverseSentence = require("reverse-sentence");
-   const sentence = "Hello Rodrigo Lourenço!";
-   const reversed = reverseSentence(sentence);
-   console.log(reversed)  # Lourenço! Rodrigo Hello
+   import(
+      "github.com/fgsoftware1/reverse-sentence"
+      ...
+   )
+
+.. code-block:: go
+
+   func main() {
+	   sentence := "Hello world!"
+	   reversed := reverselib.Reverse(sentence)
+	   fmt.Println(reversed) //world! Hello
+   }
 
 License
 -------
